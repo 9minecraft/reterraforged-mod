@@ -8,6 +8,28 @@ An unofficial rebuild of **Won-Ton, dags, racconman**'s original work, kept runn
 
 Loader: Fabric, Forge, NeoForge, Neoforge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric, NeoForge |
+| 26.2 | Fabric, NeoForge |
+| 26.1.2, 26.1.1, 26.1 | Fabric, NeoForge |
+| 1.21.11 | Fabric, NeoForge |
+| 1.21.10, 1.21.9 | Fabric, NeoForge |
+| 1.21.8, 1.21.7, 1.21.6 | Fabric, NeoForge |
+| 1.21.5 | Fabric, NeoForge |
+| 1.21.4 | Fabric, NeoForge |
+| 1.21.1, 1.21 | Fabric, NeoForge |
+| 1.20.6 | Fabric |
+| 1.20.2 | Fabric, Forge |
+| 1.20.1, 1.20 | Fabric, Forge, NeoForge |
+| 1.19.4 | Fabric, Forge |
+
+## Requires
+
+- **TerraBlender Mod**
+
 ## Source
 
 The licence allows it, so the port source is available on request: ask at **9minecraft.net@gmail.com** and it will be sent over.
